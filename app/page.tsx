@@ -1,9 +1,8 @@
 "use client"
-import Head from 'next/head';
-import Link from 'next/link';
-import react from 'react';
-import {useState} from 'react';
-import  {Products}  from './component/Products' ; // File con i dati dei laptop
+
+
+
+
 import Image from 'next/image';
 
 
@@ -54,7 +53,7 @@ export default function radu(){
   <span className="bg-yellow-600 text-black  rounded">cinque migliori notebook</span> 
   da gaming disponibili a circa 
   <span className="bg-yellow-600 text-black  rounded">1.000 euro</span>. 
-  Abbiamo ricercato le opzioni più valide per rimanere all'interno di questo budget, 
+  Abbiamo ricercato le opzioni più valide per rimanere all&apos;interno di questo budget, 
   anche se i prezzi potrebbero variare leggermente in base alle 
   <span className="bg-yellow-600 text-black  rounded">offerte attuali</span>.
 </p>
@@ -124,7 +123,7 @@ export default function radu(){
         </tr>
         <tr className="border-b border-gray-600 bg-gray-900">
           <td className="py-2 px-4 text-sm font-medium text-white">Display</td>
-          <td className="py-2 px-4 text-sm text-gray-300">15.6" Full HD con refresh rate di 144Hz</td>
+          <td className="py-2 px-4 text-sm text-gray-300">15.6&quot; Full HD con refresh rate di 144Hz</td>
         </tr>
         <tr className="border-b border-gray-600">
           <td className="py-2 px-4 text-sm font-medium text-white">Sistema di Raffreddamento</td>
@@ -159,7 +158,7 @@ export default function radu(){
   
   Il sistema di raffreddamento avanzato con doppie ventole e heat pipes in rame mantiene le temperature sotto controllo, evitando cali di prestazioni.
   
-  Dal design moderno e aggressivo, presenta una <span className="bg-yellow-600 rounded text-black">tastiera RGB retroilluminata</span>, "USB-C con DisplayPort e Power Delivery, HDMI 2.1, Wi-Fi 6E e Bluetooth 5.3, garantendo connettività avanzata e compatibilità con le periferiche più recenti.
+  Dal design moderno e aggressivo, presenta una <span className="bg-yellow-600 rounded text-black">tastiera RGB retroilluminata</span>, USB-C con DisplayPort e Power Delivery, HDMI 2.1, Wi-Fi 6E e Bluetooth 5.3, garantendo connettività avanzata e compatibilità con le periferiche più recenti.
 </p>
 <br /><br /><br />
 <div className="container max-w-2xl mx-auto text-left">
@@ -190,7 +189,7 @@ export default function radu(){
         </tr>
         <tr className="border-b border-gray-600 bg-gray-900">
           <td className="py-2 px-4 text-sm font-medium text-white">Display</td>
-          <td className="py-2 px-4 text-sm text-gray-300">16" Full HD con refresh rate di 165Hz e pannello IPS</td>
+          <td className="py-2 px-4 text-sm text-gray-300">16&quot; Full HD con refresh rate di 165Hz e pannello IPS</td>
         </tr>
         <tr className="border-b border-gray-600">
           <td className="py-2 px-4 text-sm font-medium text-white">Sistema di Raffreddamento</td>
@@ -257,7 +256,7 @@ export default function radu(){
         </tr>
         <tr className="border-b border-gray-600 bg-gray-900">
           <td className="py-2 px-4 text-sm font-medium text-white">Display</td>
-          <td className="py-2 px-4 text-sm text-gray-300">15.6" Full HD con refresh rate di 144Hz</td>
+          <td className="py-2 px-4 text-sm text-gray-300">15.6&quot; Full HD con refresh rate di 144Hz</td>
         </tr>
         <tr className="border-b border-gray-600">
           <td className="py-2 px-4 text-sm font-medium text-white">Sistema di Raffreddamento</td>
@@ -326,7 +325,7 @@ export default function radu(){
         </tr>
         <tr className="border-b border-gray-600 bg-gray-900">
           <td className="py-2 px-4 text-sm font-medium text-white">Display</td>
-          <td className="py-2 px-4 text-sm text-gray-300">15.6" Full HD con refresh rate di 144Hz</td>
+          <td className="py-2 px-4 text-sm text-gray-300">15.6&quot; Full HD con refresh rate di 144Hz</td>
         </tr>
         <tr className="border-b border-gray-600">
           <td className="py-2 px-4 text-sm font-medium text-white">Sistema di Raffreddamento</td>
@@ -362,7 +361,7 @@ export default function radu(){
 
   Il display da <span className='bg-yellow-600 rounded text-black'>15.6” Full HD a 144Hz</span> con tecnologia <span className='bg-yellow-600 rounded text-black'>NVIDIA G-Sync</span> offre un’esperienza visiva fluida, ideale per giochi FPS e competitivi. Il design aggressivo ispirato alle katane giapponesi è combinato con una costruzione solida e un peso di circa <span className='bg-yellow-600 rounded text-black'>2.3 kg</span>.
 
-  Il sistema di raffreddamento <span className='bg-yellow-600 rounded text-black'>Cooler Boost 5</span> con doppie ventole e sei <span className='bg-yellow-600 rounded text-black'>heat pipes</span> assicura temperature ottimali durante il gaming prolungato. La batteria offre un’autonomia fino a <span className='bg-yellow-600 rounded text-black'>6 ore</span> in uso normale, ma per sessioni intense è consigliato l'uso con cavo di alimentazione.
+  Il sistema di raffreddamento <span className='bg-yellow-600 rounded text-black'>Cooler Boost 5</span> con doppie ventole e sei <span className='bg-yellow-600 rounded text-black'>heat pipes</span> assicura temperature ottimali durante il gaming prolungato. La batteria offre un&apos;autonomia fino a <span className='bg-yellow-600 rounded text-black'>6 ore</span> in uso normale, ma per sessioni intense è consigliato l&apos;uso con cavo di alimentazione.
 </p>
 
 <br /><br /><br />
@@ -394,7 +393,7 @@ export default function radu(){
         </tr>
         <tr className="border-b border-gray-600 bg-gray-900">
           <td className="py-2 px-4 text-sm font-medium text-white">Display</td>
-          <td className="py-2 px-4 text-sm text-gray-300">15.6" Full HD con refresh rate di 144Hz</td>
+          <td className="py-2 px-4 text-sm text-gray-300">15.6&quot; Full HD con refresh rate di 144Hz</td>
         </tr>
         <tr className="border-b border-gray-600">
           <td className="py-2 px-4 text-sm font-medium text-white">Sistema di Raffreddamento</td>
@@ -426,11 +425,11 @@ export default function radu(){
 <p className='text-xl max-w-4xl mx-auto text-left font-rounded'>
   Il <span className='bg-yellow-600 rounded text-black'>Lenovo IdeaPad Gaming 3</span> è un laptop gaming potente e conveniente, pensato per chi cerca alte prestazioni senza rinunciare al <span className='bg-yellow-600 rounded text-black'>prezzo competitivo</span>. Con un <span className='bg-yellow-600 rounded text-black'>processore AMD Ryzen 7 7735HS</span> (8 core e 16 thread fino a 4.75 GHz) e una <span className='bg-yellow-600 rounded text-black'>NVIDIA GeForce RTX 4050</span> con <span className='bg-yellow-600 rounded text-black'>6GB di VRAM GDDR6</span>, offre prestazioni eccellenti per giochi AAA e multitasking avanzato. Il supporto per DLSS 3 e <span className='bg-yellow-600 rounded text-black'>Ray Tracing</span> garantisce una grafica avanzata, mentre i <span className='bg-yellow-600 rounded text-black'>16GB di RAM DDR5</span> (espandibili fino a 32GB) e un <span className='bg-yellow-600 rounded text-black'>SSD NVMe PCIe da 512GB</span> assicurano velocità e fluidità nei giochi più pesanti.
 
-  Il display <span className='bg-yellow-600 rounded text-black'>Full HD da 15.6”</span> con <span className='bg-yellow-600 rounded text-black'>refresh rate di 144Hz</span> e tecnologia AMD FreeSync offre un’esperienza di gioco fluida e senza tearing, perfetto anche per lo streaming e l'editing video grazie ai <span className='bg-yellow-600 rounded text-black'>colori vividi</span> e agli <span className='bg-yellow-600 rounded text-black'>angoli di visione ampi</span>.
+  Il display <span className='bg-yellow-600 rounded text-black'>Full HD da 15.6&apos;</span> con <span className='bg-yellow-600 rounded text-black'>refresh rate di 144Hz</span> e tecnologia AMD FreeSync offre un&apos;esperienza di gioco fluida e senza tearing, perfetto anche per lo streaming e l&apos;editing video grazie ai <span className='bg-yellow-600 rounded text-black'>colori vividi</span> e agli <span className='bg-yellow-600 rounded text-black'>angoli di visione ampi</span>.
 
   Il <span className='bg-yellow-600 rounded text-black'>design elegante e minimalista</span>, con una scocca resistente in plastica rinforzata, una <span className='bg-yellow-600 rounded text-black'>tastiera retroilluminata bianca</span> e un peso di <span className='bg-yellow-600 rounded text-black'>2.3 kg</span>, rende il laptop facilmente trasportabile. Inoltre, grazie al sistema di <span className='bg-yellow-600 rounded text-black'>raffreddamento avanzato</span>, il laptop mantiene temperature ottimali durante le sessioni di gioco più lunghe. La <span className='bg-yellow-600 rounded text-black'>batteria</span> offre fino a <span className='bg-yellow-600 rounded text-black'>6 ore di autonomia</span>, con ricarica rapida al <span className='bg-yellow-600 rounded text-black'>50% in soli 30 minuti</span>.
 
-  Perfetto per gamer, streamer e creator, il Lenovo IdeaPad Gaming 3 unisce <span className='bg-yellow-600 rounded text-black'>prestazioni elevate</span>, <span className='bg-yellow-600 rounded text-black'>design elegante</span> e <span className='bg-yellow-600 rounded text-black'>convenienza</span> in un'unica soluzione.
+  Perfetto per gamer, streamer e creator, il Lenovo IdeaPad Gaming 3 unisce <span className='bg-yellow-600 rounded text-black'>prestazioni elevate</span>, <span className='bg-yellow-600 rounded text-black'>design elegante</span> e <span className='bg-yellow-600 rounded text-black'>convenienza</span> in un&apos;unica soluzione.
 </p>
 <br /><br /><br />
 
@@ -462,7 +461,7 @@ export default function radu(){
         </tr>
         <tr className="border-b border-gray-600 bg-gray-900">
           <td className="py-2 px-4 text-sm font-medium text-white">Display</td>
-          <td className="py-2 px-4 text-sm text-gray-300">15.6" Full HD (1920x1080) con refresh rate di 144Hz e AMD FreeSync</td>
+          <td className="py-2 px-4 text-sm text-gray-300">15.6&quot; Full HD (1920x1080) con refresh rate di 144Hz e AMD FreeSync</td>
         </tr>
         <tr className="border-b border-gray-600">
           <td className="py-2 px-4 text-sm font-medium text-white">Sistema di Raffreddamento</td>
@@ -542,7 +541,7 @@ export default function radu(){
         </tr>
         <tr className="border-b border-gray-600 bg-gray-900">
           <td className="py-2 px-4 text-sm font-medium text-white">Display</td>
-          <td className="py-2 px-4 text-sm text-gray-300">15.6" Full HD (1920x1080) con refresh rate di 144Hz</td>
+          <td className="py-2 px-4 text-sm text-gray-300">15.6&quot; Full HD (1920x1080) con refresh rate di 144Hz</td>
         </tr>
         <tr className="border-b border-gray-600">
           <td className="py-2 px-4 text-sm font-medium text-white">Sistema di Raffreddamento</td>
